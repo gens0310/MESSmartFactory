@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MESFactoryVO\bin\Debug\MESFactoryVO.dll
+C:\Users\User\Desktop\MESFactoryVO\bin\Debug\MESFactoryVO.pdb
+C:\Users\User\Desktop\MESFactoryVO\obj\Debug\MESFactoryVO.dll
+C:\Users\User\Desktop\MESFactoryVO\obj\Debug\MESFactoryVO.pdb
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.dll
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.pdb
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.dll
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.AssemblyReference.cache
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.CoreCompileInputs.cache
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.pdb
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\MESFactoryVO\bin\Debug\MESFactoryVO.pdb
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\MESFactoryVO\obj\Debug\MESFactoryVO.pdb

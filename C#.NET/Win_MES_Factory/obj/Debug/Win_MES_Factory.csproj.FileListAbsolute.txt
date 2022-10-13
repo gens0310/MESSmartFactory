@@ -1,0 +1,228 @@
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe.config
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\bin\Debug\Win_MES_Factory.pdb
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.Form1.resources
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.exe
+C:\Users\NEXT_ENERGY\source\repos\Win_MES_Factory\obj\Debug\Win_MES_Factory.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.MainForm.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.exe
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe.config
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Win_MES_Factory.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.MyControl.DataGridViewControl.resources
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe.config
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Win_MES_Factory.pdb
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.MainForm.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.MyControl.DataGridViewControl.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.Properties.Resources.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.exe
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.pdb
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MESFactoryVO.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MESFactoryDAC.pdb
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll.config
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MESFactoryVO.pdb
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CopyComplete
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpManage.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFactory.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MESFactoryVO.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MESFactoryDAC.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll.config
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MESFactoryVO.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpManage.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFactory.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CopyComplete
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLine.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderManage.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProcessManage.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MySql.Data.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Google.Protobuf.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\ZstdNet.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Memory.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Buffers.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\MySql.Data.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Google.Protobuf.pdb
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\Google.Protobuf.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Memory.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Buffers.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLine.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProcessManage.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLogin.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpPopup.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLogin.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFacPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFacPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLinePopup.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProPopup.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLinePopup.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProPopup.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrdPopup.resources
+C:\Users\User\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderManage.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrdPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmItem.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmItemPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderItem.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.AssemblyReference.cache
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpManage.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpPopup.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFacPopup.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFactory.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmItem.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmItemPopup.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLine.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLinePopup.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLinMonitoring.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLogin.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderItem.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderManage.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrdPopup.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProcessManage.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProPopup.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.MainForm.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.MyControl.DataGridViewControl.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.Properties.Resources.resources
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.GenerateResource.cache
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CoreCompileInputs.cache
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.exe
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe.config
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\Win_MES_Factory.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\Google.Protobuf.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MESFactoryVO.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MySql.Data.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Buffers.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Memory.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\ZstdNet.dll
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MESFactoryDAC.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll.config
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MESFactoryVO.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\Google.Protobuf.pdb
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\Google.Protobuf.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\MySql.Data.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Buffers.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Memory.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KIM\Downloads\Win_MES_Factory (2)\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CopyComplete
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe.config
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\Win_MES_Factory.exe
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\Win_MES_Factory.pdb
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\Google.Protobuf.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MESFactoryVO.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MySql.Data.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Buffers.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Memory.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\ZstdNet.dll
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MESFactoryDAC.pdb
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MESFactoryDAC.dll.config
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MESFactoryVO.pdb
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\Google.Protobuf.pdb
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\Google.Protobuf.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\MySql.Data.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Buffers.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Memory.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpManage.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmEmpPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFacPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmFactory.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmItem.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmItemPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLine.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLinePopup.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLinMonitoring.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmLogin.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderItem.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrderManage.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmOrdPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProcessManage.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.frmProPopup.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.MainForm.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.MyControl.DataGridViewControl.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.csproj.CopyComplete
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.exe
+C:\Users\NEXT_ENERGY\Desktop\새 폴더 (2)\Win_MES_Factory 1012 22시\Win_MES_Factory\obj\Debug\Win_MES_Factory.pdb

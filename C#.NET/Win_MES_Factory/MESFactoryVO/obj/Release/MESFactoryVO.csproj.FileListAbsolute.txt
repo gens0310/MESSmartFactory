@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\bin\Release\MESFactoryVO.dll
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\bin\Release\MESFactoryVO.pdb
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Release\MESFactoryVO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Release\MESFactoryVO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Release\MESFactoryVO.dll
+C:\Users\User\Desktop\Win_MES_Factory\MESFactoryVO\obj\Release\MESFactoryVO.pdb
